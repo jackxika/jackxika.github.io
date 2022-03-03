@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : 真理博客
 description: > # this means to ignore newlines until "Language & timezone"
-  We are created to share nature and love.
+  以自我为中心化的去中心化
 
 
 ## => Language and Timezone
@@ -38,8 +38,8 @@ author:
   name      : 真理博客
   url       :
   avatar    : https://sm.ms/image/16IMZuVDeqPRrsQ # path or url of avatar image (square)
-  bio       : ABCDEFGHIDNOT'KNOWWHATI'AMDOING
-  email     : #
+  bio       : 以自我为中心化的去中心化
+  email     : blog@559888.xyz#
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -49,7 +49,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : Yuleii # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -102,7 +102,7 @@ paginate_path: /page:num # don't change this unless for special need
 
 ## => Sources
 ##############################
-sources: # bootcdn (default), unpkg
+sources: bootcdn # bootcdn (default), unpkg
 
 
 ## => Sharing
@@ -122,15 +122,15 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: https-yuleii-github-io # the Disqus shortname for the site
+    shortname: zhen-xiang-bo-ke # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
     clientID    : #f24ef049125d65171a1d # GitHub Application Client ID
     clientSecret: #4c6b972349dafe43b0c74afae19438d0402c85e1 # GitHub Application Client Secret
-    repository  : #Yuleii.github.io # GitHub repo
-    owner       : #Yuleii # GitHub repo owner
+    repository  : #jackxika.github.io # GitHub repo
+    owner       : #jackxika # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
        - #Yuleii
 
