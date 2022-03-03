@@ -1,2 +1,2 @@
 # Hello blog!
-[Yulei's Sandbox](https://yuleii.github.io)
+抄袭：yuleii.github.io
