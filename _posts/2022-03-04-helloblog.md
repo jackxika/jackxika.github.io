@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Document - Writing Posts
+title: 我的博客今天诞生了
 mathjax: true
 key: 2022-03-04
 ---
