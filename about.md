@@ -25,7 +25,9 @@ titles:
   # @end locale config
 ---
 
-<center>![about](https://github.com/jackxika/jackxika.github.io/raw/master/pictures/shield.png){:.shadow.rounded width="200"}</center>
+<center>![https://github.com/jackxika/jackxika.github.io/raw/master/pictures/shield.png](path-to-image){:.border}</center>
+
+
 ### Hi, I'm 真理.
 
 在这里发现真正的道理
